@@ -1,0 +1,1 @@
+{"id":55,"category":{"id":0,"name":"UPDATED_NAME_Testing_pet_55"},"name":"doggie","photoUrls":["string"],"tags":[{"id":0,"name":"string"}],"status":"available"}
